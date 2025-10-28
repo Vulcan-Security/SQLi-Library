@@ -6,7 +6,7 @@
 
 ---
 
-**Curated, organized, and ready-to-use SQLi vectors for security researchers**
+**Mostly Organized, and ready-to-use SQLi vectors for security researchers (WE DO NOT TAKE CREDIT FOR ALL OF THEM some of them are from just collecting overtime we just are providing them all in one place)**
 
 </div>
 
@@ -16,7 +16,7 @@ This repository contains an extensive collection of SQLi (Structured Query Langu
 
 ## 🚀 Quick Start
 
-Browse the payload files or import them into your security tools. All payloads are organized for easy integration with automated scanners and manual testing.
+Browse the payload files or import them into your security tools. All payloads are mostly organized for easy integration with automated scanners and manual testing.
 
 ## 📁 Payload Collection
 
